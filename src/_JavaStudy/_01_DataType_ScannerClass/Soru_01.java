@@ -12,10 +12,11 @@ public class Soru_01 {
 
 	
 	public static void main(String[] args) {
-		//       Soru :   Ekrana      "Hello ", "World  \ /"        şeklinde yazınız
 
-		System.out.println("   \"Hello \" , \"World \\ / \"    ");
-		// Pazartesi kelimesini her harfini ayrı bir satıra gelecek şekile yazdırınız.
+		//       Soru :   Ekrana      "Hello ", "World  \ /"        ?eklinde yaz?n?z
+
+		System.out.println("   \"Hello \" , \"World \\ / \"  iğüğşşişiçöçöçöıııÖİİİ;ÜĞĞÜĞÜĞŞŞİİŞŞÇÖÇÖÇÖIIlü?çöÇÖ?Ü?IÖ?Ö?L?ÜÜ?IPÜI?ÖÇ??  ");
+		// Pazartesi kelimesini her harfini ayr? bir sat?ra gelecek ?ekile yazd?r?n?z.
 
 		System.out.println("P\na\nz\na\nr\nt\ne\ns\ni");
 
